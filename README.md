@@ -6,6 +6,8 @@ Because of GitHub's 100MB file limit, YoloV8's *.pt* files cannot be uploaded to
 
 Unzip them and move the contents into the main catalogue in order for this model to work, or pretrain your own model using train.py and selected YoloV8 module.
 
+This model's MARPE score is 3.27.
+
 ### Concept
 This model has been pretrainted to detect leaves of 5 distinct trees - aspen, birch, gazel, maple and oak.
 
