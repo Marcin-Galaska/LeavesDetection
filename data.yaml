@@ -1,0 +1,4 @@
+train: ./train/images # Dane treningowe
+val: ./valid/images # Dane walidacyjne
+nc: 5 # Liczba klas
+names: ['aspen', 'birch', 'hazel', 'maple', 'oak'] # Nazwy klas
