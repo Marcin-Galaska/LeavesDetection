@@ -2,7 +2,7 @@
  A YoloV8-based tree leaf detection module.
 
 ### **Required - pretrained (.pt) files**
-Because of GitHub's 100MB file limit, YoloV8's .pt files cannot be uploaded to this repository. **Required files are available [here](https://drive.google.com/file/d/1Vj1OTCirn1xH_4zl5NX2p0Q2V1oHJvXE/view?usp=sharing).**
+Because of GitHub's 100MB file limit, YoloV8's *.pt* files cannot be uploaded to this repository. **Required files are available [here](https://drive.google.com/file/d/1Vj1OTCirn1xH_4zl5NX2p0Q2V1oHJvXE/view?usp=sharing).**
 
 Unzip them and move the contents into the main catalogue in order for this model to work, or pretrain your own model using train.py and selected YoloV8 module.
 
